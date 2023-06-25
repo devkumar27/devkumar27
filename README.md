@@ -8,7 +8,7 @@ Active Learner of Full Stack Web Development and Problem Solving
 * ✉️  You can contact me at [dev270502@gmail.com](mailto:dev270502@gmail.com)
 * 🧠  I'm learning MERN Stack Development.
 * 🤝  I'm open to collaborating on Interesting MERN Stack projects.
-* ⚡  I like Playing Cricket and Reading About Psychology.
+* ⚡ I like Playing Cricket and Reading About Psychology.
 
 <a href="https://www.github.com/devkumar27" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devkumar27?logo=github&style=for-the-badge&color=14b8a6&labelColor=713f12" /></a>
