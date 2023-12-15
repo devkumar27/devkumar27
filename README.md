@@ -1,18 +1,12 @@
-Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is Dev Kumar!
-===================================================================================================================================
+## Hi there! I'm Dev Kumar👋 <br> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&width=435&lines=Computer+Science+Student;Full+Stack+Web+Developer;Exploring+and+Learning+Everyday" alt="Typing SVG" /></a> <br>
+Glad to see you here! :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/devkumar27?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does computer video games works to learning to develop actual software applications  :dart:. Outside of [GitHub](https://github.com/devkumar27/), catch me for a quick session of **cricket** 🏏 in the nets! You can **find me on [LinkedIn]([https://www.linkedin.com/in/dev/](https://www.linkedin.com/in/dev-kumar-995aaa201/))**. <br>
 
-Active Learner of Full Stack Web Development and Problem Solving
---------------------------
 
 * 🌍  I'm based in Vellore Institute of Technology, Bhopal
 * ✉️  You can contact me at [dev270502@gmail.com](mailto:dev270502@gmail.com)
 * 🧠  I'm learning MERN Stack Development.
 * 🤝  I'm open to collaborating on Interesting MERN Stack projects.
-* ⚡ I like Playing Cricket and Reading About Psychology.
+* ⚡  I like Playing Cricket and Reading About Psychology.
 
-<a href="https://www.github.com/devkumar27" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/devkumar27?logo=github&style=for-the-badge&color=14b8a6&labelColor=713f12" /></a>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/devkumar27" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dev.k.27/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dev-kumar-995aaa201/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=devkumar27&theme=dark&hide_border=false)<br/>
