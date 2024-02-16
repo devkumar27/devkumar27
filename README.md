@@ -6,4 +6,4 @@ Glad to see you here! :star_struck: <br> The green dots on my [**GitHub** profil
 * ✉️  You can contact me at [dev270502@gmail.com](mailto:dev270502@gmail.com)
 * 🧠  I'm learning MERN Stack Development.
 * 🤝  I'm open to collaborating on Interesting MERN Stack projects.
-* ⚡  I like Playing Cricket and Reading About Psychology.
+* ⚡  I like Playing Cricket and Reading.
