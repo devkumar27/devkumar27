@@ -7,6 +7,3 @@ Glad to see you here! :star_struck: <br> The green dots on my [**GitHub** profil
 * 🧠  I'm learning MERN Stack Development.
 * 🤝  I'm open to collaborating on Interesting MERN Stack projects.
 * ⚡  I like Playing Cricket and Reading About Psychology.
-
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=devkumar27&theme=dark&hide_border=false)<br/>
